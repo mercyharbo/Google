@@ -9,5 +9,5 @@
 
 # Author 
 
-Twitter - https://twitter.com/codewithmercy
-Instagram - https://instagram.com/codewithmercy
+- Twitter - https://twitter.com/codewithmercy
+- Instagram - https://instagram.com/codewithmercy
